@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ListViewScrollTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ListViewScrollTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
